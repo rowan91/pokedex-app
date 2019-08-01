@@ -240,6 +240,15 @@ desc="Jigglypuff (Japanese: プリン Purin) is a Normal/Fairy-type Pokémon int
 conditions="There will be only 59,839 Jigglypuffs in existence."
 image="https://i.imgur.com/uwe7mkr.png"
 
+[[CURRENCIES]]
+code="Pikachu"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pikachu"
+desc="Pikachu (ピカチュウ Pikachuu) is an Electric-type Pokémon. Pikachu are small, chubby, and incredibly cute mouse-like Pokémon. They are almost completely covered by yellow fur. They have long yellow ears that are tipped with black."
+conditions="There will be only 5961 Pikachus in existence."
+image="https://pokedex.live/Pikachu.png"
+
 
 
 # optional extra information for humans
