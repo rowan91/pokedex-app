@@ -38,7 +38,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Charmander"
 desc="Charmander is a small, bipedal, dinosaur-like Pokémon. Most of its body is colored orange, while its underbelly is a pale light-yellow color. Charmander, like its evolved forms, has a flame that constantly burns on the end of its tail. However, If the flame on Charmander's tail goes out, Charmander is known to die."
-conditions="There will be only 1,019 Charmanders in existence."
+conditions="There will be only 10,190 Charmanders in existence."
 image="https://i.imgur.com/5nCIbl4.png"
 
 [[CURRENCIES]]
@@ -120,7 +120,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Omanyte"
 desc="Omanyte (Japanese: オムナイト Omunaito) is a Rock/Water-type Fossil Pokémon introduced in Generation I that can be resurrected from a Helix Fossil. It is Kabuto's counterpart. Omanyte is a snail-like Pokémon that died out millions of years ago. Omanyte's sturdy shell protects it from enemy attacks. It has many tentacles, which it used to crawl along the muddy seafloor. It has two large eyes that just stick out under its curvy shell. It is based on the ancient sea-creatures Ammonites."
-conditions="A limited edition given for free for the ones who add its trustline"
+conditions="There will be only 111111 Omanyte in existence"
 image="https://i.imgur.com/aSQIDHa.png"
 
 [[CURRENCIES]]
@@ -228,7 +228,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Charmeleon"
 desc="Charmeleon (リザード Rizaado) is a Fire-type Pokémon introduced in Generation I. Charmeleon is a small, bipedal, dinosaur-like Pokémon with an appearance similar to that of its pre-evolved form, Charmander. Charmeleon, like its other evolutionary forms, can naturally breathe fire. Its powers, though, are much greater than Charmander's, but not as great as Charizard's."
-conditions="There will be only 101 Charmeleons in existence."
+conditions="There will be only 1010 Charmeleons in existence."
 image="https://i.imgur.com/KG7T0wt.png"
 
 [[CURRENCIES]]
