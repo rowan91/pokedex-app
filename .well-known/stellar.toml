@@ -249,6 +249,15 @@ desc="Pikachu (ピカチュウ Pikachuu) is an Electric-type Pokémon. Pikachu a
 conditions="There will be only 5961 Pikachus in existence."
 image="https://pokedex.live/img/Pikachu.png"
 
+[[CURRENCIES]]
+code="Magnemite"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Magnemite"
+desc="Magnemite (Japanese: コイル Koiru) is an Electric/Steel-type Pokémon introduced in Generation I. Magnemite has light-blue steel body in the shape of a sphere which is kept bound together with the two screws and one large screw at the top of its head. It has one big eye that is as big as the magnets it uses; which can launch electric attacks. On the side of its body are two horseshoe magnets which expel antigravity, allowing it to float in mid-air."
+conditions="There will be only 5961 Pikachus in existence."
+image="https://pokedex.live/img/Magnemite.png"
+
 
 
 # optional extra information for humans
