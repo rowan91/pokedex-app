@@ -255,8 +255,18 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Magnemite"
 desc="Magnemite (Japanese: コイル Koiru) is an Electric/Steel-type Pokémon introduced in Generation I. Magnemite has light-blue steel body in the shape of a sphere which is kept bound together with the two screws and one large screw at the top of its head. It has one big eye that is as big as the magnets it uses; which can launch electric attacks. On the side of its body are two horseshoe magnets which expel antigravity, allowing it to float in mid-air."
-conditions="There will be only 5961 Pikachus in existence."
+conditions="There will be only 17,676 Magnemites in existence."
 image="https://pokedex.live/img/Magnemite.png"
+
+
+[[CURRENCIES]]
+code="Piplup"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Piplup"
+desc="Piplup (Japanese: ポッチャマ Potchama) is the Water-type Starter Pokémon of the Sinnoh region. It was introduced in Generation IV. Piplup is a light-blue penguin-like Pokémon, which is covered in thick down to insulate against the cold. It has a dark blue head with a primarily white face and a short, yellow beak. The dark blue feathers on its head extend down its back and around its neck, which causes it to appear to be wearing a cape. There are two white ovals on its chest and a small, light-blue marking resembles a crown above its beak."
+conditions="There will be only 197969 Piplups in existence."
+image="https://pokedex.live/img/Piplup.png"
 
 
 
