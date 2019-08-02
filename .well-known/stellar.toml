@@ -74,7 +74,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Eevee"
 desc="Eevee (Japanese: イーブイ Iibui) is a Normal-type Pokémon introduced in Generation I. It's well-known for being the Pokémon with the highest number of evolution possibilities, due to its unstable genetic makeup. Eevee is a small, fennec fox-like creature with bushy, brown fur. Its muzzle is very cat-like, with a small, black, triangular nose. It has a fluffy cream-colored ruff around its neck and a short, bushy, fox-like tail with a creamy tip."
-conditions="There will be only 10,171 Eevees in existence."
+conditions="There will be only 101,710 Eevees in existence."
 image="https://i.imgur.com/oqaDx5r.png"
 
 
@@ -267,6 +267,15 @@ name="Piplup"
 desc="Piplup (Japanese: ポッチャマ Potchama) is the Water-type Starter Pokémon of the Sinnoh region. It was introduced in Generation IV. Piplup is a light-blue penguin-like Pokémon, which is covered in thick down to insulate against the cold. It has a dark blue head with a primarily white face and a short, yellow beak. The dark blue feathers on its head extend down its back and around its neck, which causes it to appear to be wearing a cape. There are two white ovals on its chest and a small, light-blue marking resembles a crown above its beak."
 conditions="There will be only 197969 Piplups in existence."
 image="https://pokedex.live/img/Piplup.png"
+
+[[CURRENCIES]]
+code="Koffing"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Koffing"
+desc="Koffing (Japanese: ドガース Dogaasu) is a Poison-type Pokémon introduced in Generation I. Koffing is a Poison Gas Pokémon. Its body is purple and spherical with a skull and crossbones on the lower parts of its body. Koffing mainly eats rotten kitchen garbage."
+conditions="There will be only 38368 Koffings in existence."
+image="https://pokedex.live/img/Koffing.png"
 
 
 
