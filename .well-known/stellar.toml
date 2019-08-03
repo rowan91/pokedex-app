@@ -313,6 +313,24 @@ desc="Mimikyu (ミミッキュ Mimikkyu) is a ghost/fairy-type Pokémon introduc
 conditions="There will be only 1001 Mimikyus in existence."
 image="https://pokedex.live/img/Mimikyu.png"
 
+[[CURRENCIES]]
+code="Sudowoodo"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Sudowoodo"
+desc="Sudowoodo (Japanese: ウソッキー Usokkii) is a Rock-type Pokémon introduced in Generation II. Sudowoodo have the Rock Head and Sturdy Abilities. Sudowoodo, although a Rock type, looks more like a Grass type by use of adaptive mimicry."
+conditions="There will be only 38838 Sudowoodos in existence."
+image="https://pokedex.live/img/Sudowoodo.png"
+
+[[CURRENCIES]]
+code="Electabuzz"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Electabuzz"
+desc="Electabuzz (Japanese: エレブー Erebuu) is an Electric-type Pokémon introduced in Generation I. Electabuzz is a type of bipedal, feline-like Pokémon with bright yellow coloring and black stripes. It has lightning bolt shapes on its body and large forearms. Some of its feline properties are its long tail and large fangs. Its two legs are short, and its feet are large with two sharp claws on either one."
+conditions="There will be only 18697 Electabuzz in existence."
+image="https://pokedex.live/img/Electabuzz.png"
+
 
 
 # optional extra information for humans
