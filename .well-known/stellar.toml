@@ -304,6 +304,15 @@ desc="Poliwag (Japanese: ニョロモ Nyoromo) is a Water-type Pokémon introduc
 conditions="There will be only 96686 Poliwags in existence."
 image="https://pokedex.live/img/Poliwag.png"
 
+[[CURRENCIES]]
+code="Mimikyu"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Mimikyu"
+desc="Mimikyu (ミミッキュ Mimikkyu) is a ghost/fairy-type Pokémon introduced in Generation VII. The 'body' of Mimikyu has been designed to look like Pikachu. The overall structure of the disguise does resemble Pikachu, but the skin is a grayish-beige color instead of yellow. "
+conditions="There will be only 1001 Mimikyus in existence."
+image="https://pokedex.live/img/Mimikyu.png"
+
 
 
 # optional extra information for humans
