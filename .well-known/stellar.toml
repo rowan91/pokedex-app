@@ -277,6 +277,33 @@ desc="Koffing (Japanese: ドガース Dogaasu) is a Poison-type Pokémon introdu
 conditions="There will be only 38368 Koffings in existence."
 image="https://pokedex.live/img/Koffing.png"
 
+[[CURRENCIES]]
+code="Butterfree"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Butterfree"
+desc="Butterfree (Japanese: バタフリー Batafurii) is a Bug/Flying-type Pokémon introduced in Generation I. Butterfree is an insect-like Pokémon appearing as a large butterfly. Butterfree has a large purple body with light blue limbs and a nose with very small fangs. Its eyes are quite large in proportion to its head and are a red color. Butterfree's large wings simply appear as black and white butterfly wings."
+conditions="There will be only 127621 Butterfrees in existence."
+image="https://pokedex.live/img/Butterfree.png"
+
+[[CURRENCIES]]
+code="Golduck"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Golduck"
+desc="Golduck (Japanese: ゴルダック Gorudakku) is a Water-type Pokémon introduced in Generation I. Golduck has the ability Damp. Damp makes it impossible for any of Golduck's opponents to use a Self-Destruct move. Golduck can use psychic powers. When they are used, the gem on its head will glow."
+conditions="There will be only 906 Golducks in existence."
+image="https://pokedex.live/img/Golduck.png"
+
+[[CURRENCIES]]
+code="Poliwag"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Poliwag"
+desc="Poliwag (Japanese: ニョロモ Nyoromo) is a Water-type Pokémon introduced in Generation I. It is so soft its organs are actually visible. It also has trouble walking on its feet due to its lack of arms which causes it to be unbalanced. The swirl on its belly is its internal organs showing through. If the swirl is tinged, that means it's affected by some disease."
+conditions="There will be only 96686 Poliwags in existence."
+image="https://pokedex.live/img/Poliwag.png"
+
 
 
 # optional extra information for humans
