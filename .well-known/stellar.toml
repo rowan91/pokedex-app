@@ -10,7 +10,7 @@ code="Lugia"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Lugia"
-desc="Is a Psychic/Flying Legendary Pokémon. Lugia is an immense, draconian and mythical Pokémon with avian qualities. It has silver-white feathers over most of its body, except for its blue underbelly. Lugia has ten fins running along its back, which stand upward while flying, but lie flat on its back in the water and on land.Known as the Guardian of the Seas, Lugia is tremendously intelligent and is very gentle with the life around it, despite its colossal size. Due to the fact that it can blow houses away with the single flap of its wings, it isolates itself deep within the great current, to prevent it from harming civilization. Lugia is also intelligent enough to even speak telepathically, like Mewtwo."
+desc="Is a Psychic/Flying Legendary Pokémon. Lugia is an immense, draconian and mythical Pokémon with avian qualities. It has silver-white feathers over most of its body, except for its blue underbelly. Known as the Guardian of the Seas, Lugia is tremendously intelligent and is very gentle with the life around it, despite its colossal size. Lugia is also intelligent enough to even speak telepathically, like Mewtwo."
 conditions="There will be only 1 Lugia in existence."
 image="https://i.imgur.com/N2xY8xY.png"
 
@@ -20,7 +20,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Caterpie"
 desc="Caterpie is a worm-like Pokémon that is mainly green in color with a tan underside. Just below its head are four, tiny legs that are used only for movement. On top of its head is a red, 'y-shaped' antenna, which can be used to produce an odor used in self-defense, in case something tries to hurt it."
-conditions="There will be only 9,789 Caterpies in existence."
+conditions="There will be only 12762100 Caterpies in existence."
 image="https://i.imgur.com/BvuSEpD.png"
 
 [[CURRENCIES]]
@@ -330,6 +330,79 @@ name="Electabuzz"
 desc="Electabuzz (Japanese: エレブー Erebuu) is an Electric-type Pokémon introduced in Generation I. Electabuzz is a type of bipedal, feline-like Pokémon with bright yellow coloring and black stripes. It has lightning bolt shapes on its body and large forearms. Some of its feline properties are its long tail and large fangs. Its two legs are short, and its feet are large with two sharp claws on either one."
 conditions="There will be only 18697 Electabuzz in existence."
 image="https://pokedex.live/img/Electabuzz.png"
+
+[[CURRENCIES]]
+code="Wartortle"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Wartortle"
+desc="Wartortle (Japanese: カメール Kameeru) is a Water-type Pokémon introduced in Generation I. It is the evolved form of Squirtle. Wartortle are small, bipedal, turtle-like Pokémon with a similar appearance to that of their pre-evolved form, Squirtle. Some differences are that Wartortle have developed sharper and larger claws and teeth."
+conditions="There will be only 12931 Wartortles in existence."
+image="https://pokedex.live/img/Wartortle.png"
+
+[[CURRENCIES]]
+code="Wartortle"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Wartortle"
+desc="Wartortle (Japanese: カメール Kameeru) is a Water-type Pokémon introduced in Generation I. It is the evolved form of Squirtle. Wartortle are small, bipedal, turtle-like Pokémon with a similar appearance to that of their pre-evolved form, Squirtle. Some differences are that Wartortle have developed sharper and larger claws and teeth."
+conditions="There will be only 12931 Wartortles in existence."
+image="https://pokedex.live/img/Wartortle.png"
+
+[[CURRENCIES]]
+code="Drowzee"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Drowzee"
+desc="Drowzee (Japanese: スリープ Suriipu) is a Psychic-type Pokémon introduced in Generation I. Drowzee is a tapir-like Pokémon that is mostly yellow. The bottom half of its body is covered in mud, as if it was bathing in it. When Drowzee uses Hypnosis, its eyes glow a light blue."
+conditions="There will be only 44826 Drowzees in existence."
+image="https://pokedex.live/img/Drowzee.png"
+
+[[CURRENCIES]]
+code="Cleffa"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Cleffa"
+desc="Cleffa (Japanese: ピィ Pyi) is a Fairy-type Baby Pokémon introduced in Generation II. Cleffa is a small, pink creature that is vaguely star-shaped in appearance. Its ears are completely brown. It has two small black eyes, a small mouth, and it appears to have a small, permanent blush on its cheeks."
+conditions="There will be only 86826 Cleffas in existence."
+image="https://pokedex.live/img/Cleffa.png"
+
+[[CURRENCIES]]
+code="Elekid"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Elekid"
+desc="Elekid (Japanese: エレキッド Erekiddo) is an Electric-type Baby Pokémon introduced in Generation II. Elekid is mainly yellow with black stripes across its body and one lightning bolt shape on its stomach. Its forearms are large with three small claws at the ends and its legs are short and stubby."
+conditions="There will be only 186970 Elekids in existence."
+image="https://pokedex.live/img/Elekid.png"
+
+[[CURRENCIES]]
+code="Metapod"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Metapod"
+desc="Metapod (トランセル Toranseru) is a Bug-type Pokémon introduced in Generation I. It is the evolved form of Caterpie. Metapod is an insect-like Pokémon with an appearance similar to that of a green-colored chrysalis or cocoon."
+conditions="There will be only 1276210 Metapods in existence."
+image="https://pokedex.live/img/Elekid.png"
+
+[[CURRENCIES]]
+code="Pidgeotto"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pidgeotto"
+desc="Pidgeotto (ピジョン Pijon) is a Normal/Flying-type Pokémon introduced in Generation I. It is the evolved form of Pidgey. Pidgeotto resembles a small hawk and is brightly colored with red and yellow feathers. Due to similarities between Pidgeotto and its evolved form, Pidgeot, many players often get the two confused. Its beak and claws are as sharp as its eyesight."
+conditions="There will be only 915690 Pidgeottos in existence."
+image="https://pokedex.live/img/Pidgeotto.png"
+
+[[CURRENCIES]]
+code="Pidgey"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Pidgey"
+desc="Pidgey (ポッポ Poppo) is a Normal/Flying-type Pokémon introduced in Generation I. Pidgey resembles a small, plump-bodied bird. It is brown in color, with a cream-colored throat and belly. The tips of its wings share the same color."
+conditions="There will be only 9156901 Pidgeys in existence."
+image="https://pokedex.live/img/Pidgey.png"
+
 
 
 
