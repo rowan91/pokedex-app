@@ -10,7 +10,8 @@ code="Lugia"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Lugia"
-desc="Is a Psychic/Flying Legendary Pokémon. Lugia is an immense, draconian and mythical Pokémon with avian qualities. It has silver-white feathers over most of its body, except for its blue underbelly. Known as the Guardian of the Seas, Lugia is tremendously intelligent and is very gentle with the life around it, despite its colossal size. Lugia is also intelligent enough to even speak telepathically, like Mewtwo."
+GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6
+desc="Lugia (Japanese: ルギア Rugia) is a Psychic/Flying Legendary Pokémon. It has silver-white feathers over most of its body, except for its blue underbelly. Known as the Guardian of the Seas, Lugia is tremendously intelligent and is very gentle with the life around it, despite its colossal size. Lugia is also intelligent enough to even speak telepathically, like Mewtwo."
 conditions="There will be only 1 Lugia in existence."
 image="https://i.imgur.com/N2xY8xY.png"
 
@@ -19,7 +20,7 @@ code="Caterpie"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Caterpie"
-desc="Caterpie is a worm-like Pokémon that is mainly green in color with a tan underside. Just below its head are four, tiny legs that are used only for movement. On top of its head is a red, 'y-shaped' antenna, which can be used to produce an odor used in self-defense, in case something tries to hurt it."
+desc="Caterpie (Japanese: キャタピー Kyatapii) is a Bug-type Pokémon introduced in Generation I. Caterpie is a worm-like Pokémon that is mainly green in color with a tan underside. Just below its head are four, tiny legs that are used only for movement. On top of its head is a red, 'y-shaped' antenna, which can be used to produce an odor used in self-defense, in case something tries to hurt it."
 conditions="There will be only 12762100 Caterpies in existence."
 image="https://i.imgur.com/BvuSEpD.png"
 
@@ -28,7 +29,7 @@ code="Diglett"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Diglett"
-desc="Digletts are small, brown moles with two small eyes and a large pink/red nose. Since part of its body is underground, we don't know whether or not Diglett has feet, tail(s), etc. However, in Pokémon Mystery Dungeon Red Rescue Team and Blue Rescue Team, the rescued Diglett (after Skarmory kidnapped him) claimed to say his feet were getting cold (Which thereafter caused an awkward moment of silence)."
+desc="Diglett (Japanese: ディグダ Diguda) is a Ground-type Pokémon introduced in Generation I. Digletts are small, brown moles with two small eyes and a large pink/red nose. Since part of its body is underground, we don't know whether or not Diglett has feet, tail(s), etc. However, in Pokémon Mystery Dungeon Red Rescue Team and Blue Rescue Team, the rescued Diglett (after Skarmory kidnapped him) claimed to say his feet were getting cold (Which thereafter caused an awkward moment of silence)."
 conditions="There will be only 11,021 Digletts in existence."
 image="https://i.imgur.com/5tqacCJ.png"
 
@@ -37,7 +38,7 @@ code="Charmander"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Charmander"
-desc="Charmander is a small, bipedal, dinosaur-like Pokémon. Most of its body is colored orange, while its underbelly is a pale light-yellow color. Charmander, like its evolved forms, has a flame that constantly burns on the end of its tail. However, If the flame on Charmander's tail goes out, Charmander is known to die."
+desc="Charmander (ヒトカゲ Hitokage) is a Fire-type Pokémon. It is one of the three Starter Pokémon that can be chosen in the Kanto region. Charmander is a small, bipedal, dinosaur-like Pokémon. Most of its body is colored orange, while its underbelly is a pale light-yellow color. Charmander, like its evolved forms, has a flame that constantly burns on the end of its tail. However, If the flame on Charmander's tail goes out, Charmander is known to die."
 conditions="There will be only 10,190 Charmanders in existence."
 image="https://i.imgur.com/5nCIbl4.png"
 
@@ -46,7 +47,7 @@ code="Raticate"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Raticate"
-desc="Compared to Rattata, Raticate is far more of a predator, and the majority of its features are adapted for this purpose. Its most notable feature are its large teeth; like most rodents, Raticate's teeth grow continuously throughout its life, and must be constantly worn down by gnawing. It is also known that Raticate's fangs are tough enough to break through concrete. It has long whiskers and a long tail. Raticate looks like a rat, just like Rattata. Raticate tends to stand on its hind legs, as opposed to its pre-evolution."
+desc="Raticate (Japanese: ラッタ Ratta) is a Normal-type Pokémon introduced in Generation I. Compared to Rattata, Raticate is far more of a predator, and the majority of its features are adapted for this purpose. Its most notable feature are its large teeth; like most rodents, Raticate's teeth grow continuously throughout its life, and must be constantly worn down by gnawing. It is also known that Raticate's fangs are tough enough to break through concrete. It has long whiskers and a long tail. Raticate looks like a rat, just like Rattata. Raticate tends to stand on its hind legs, as opposed to its pre-evolution."
 conditions="There will be only 19,199 Raticates in existence."
 image="https://i.imgur.com/erz07Gc.png"
 
@@ -55,7 +56,7 @@ code="Cubone"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Cubone"
-desc="Cubone, known as the Lonely Pokémon, appears to be a small, brown, dinosaur-like Pokémon that constantly wears its deceased mother's skull like a helmet. The skull masks its true face from view, which makes it a puzzlement for many Trainers and researchers. Its cries echo within the skull and it comes out as a pained and sad melody. On the night of a full moon, it cries, for it seems to recognize its mother's face in the moon. Its tears create stains on the skull. Cubone has a plump body with a paler-colored underbelly, with strong, clawed limbs to carry a bone as a weapon around wherever it goes. Cubone has a single, nailed toe on each foot, with two spikes on its back. A small tail is also present for balance, but it can be used for attacking." 
+desc="Cubone (Japanese: カラカラ Karakara) is a Ground-Type Pokémon introduced in Generation I. Cubone, known as the Lonely Pokémon, appears to be a small, brown, dinosaur-like Pokémon that constantly wears its deceased mother's skull like a helmet. The skull masks its true face from view, which makes it a puzzlement for many Trainers and researchers. Its cries echo within the skull and it comes out as a pained and sad melody. On the night of a full moon, it cries, for it seems to recognize its mother's face in the moon. Its tears create stains on the skull. Cubone has a plump body with a paler-colored underbelly, with strong, clawed limbs to carry a bone as a weapon around wherever it goes. Cubone has a single, nailed toe on each foot, with two spikes on its back. A small tail is also present for balance, but it can be used for attacking." 
 conditions="There will be only 119 Cubones in existence."
 image="https://i.imgur.com/aXiVHmo.png"
 
@@ -64,7 +65,7 @@ code="Bellsprout"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Bellsprout"
-desc="Bellsprout is a plant-like Pokémon. The body is a thin brown root and stem system. Bellsprout has two root-like legs. It has two leaves on each side. Its head is yellow and shaped like a bulb, the tip is colored pink, and it has the smallest amount of dirt on its feet."
+desc="Bellsprout (Japanese: マダツボミ Madatsubomi) is a Grass/Poison-type Pokémon introduced in Generation I. Bellsprout is a plant-like Pokémon. The body is a thin brown root and stem system. Bellsprout has two root-like legs. It has two leaves on each side. Its head is yellow and shaped like a bulb, the tip is colored pink, and it has the smallest amount of dirt on its feet."
 conditions="There will be only 979,121 Bellsprouts in existence."  
 image="https://i.imgur.com/5bvdi4R.png"
 
