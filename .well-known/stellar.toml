@@ -403,6 +403,24 @@ desc="Pidgey (ポッポ Poppo) is a Normal/Flying-type Pokémon introduced in Ge
 conditions="There will be only 9156901 Pidgeys in existence."
 image="https://pokedex.live/img/Pidgey.png"
 
+[[CURRENCIES]]
+code="Rattata"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Rattata"
+desc="Rattata (Japanese: コラッタ Koratta) is a Normal-type Pokémon introduced in Generation I, and a Dark/Normal-type introduced in Generation VII. Rattata is mouse-like, with large incisors and a whisker on both sides. Female Rattata have shorter whiskers than the males."
+conditions="There will be only 191997 Rattatas in existence."
+image="https://pokedex.live/img/Rattata.png"
+
+[[CURRENCIES]]
+code="Bonsly"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Bonsly"
+desc="Bonsly (Japanese: ウソハチ Usohachi) is a Rock-type Baby Pokémon that was introduced in Generation IV. Bonsly evolves into Sudowoodo when leveled up while knowing the move Mimic."
+conditions="There will be only 388386 Bonslys in existence."
+image="https://pokedex.live/img/Bonsly.png"
+
 
 
 
