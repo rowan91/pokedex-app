@@ -421,6 +421,16 @@ desc="Bonsly (Japanese: ウソハチ Usohachi) is a Rock-type Baby Pokémon that
 conditions="There will be only 388386 Bonslys in existence."
 image="https://pokedex.live/img/Bonsly.png"
 
+[[CURRENCIES]]
+code="Munchlax"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Munchlax"
+desc="Munchlax (Japanese: ゴンベ Gonbe) is a Normal-type Baby Pokémon introduced in Generation IV. It is known for its very high appetite and eats anything edible except for Pokémon and humans."
+conditions="There will be only 389486 Munchlaxs in existence."
+image="https://pokedex.live/img/Munchlax.png"
+
+
 
 
 
