@@ -439,6 +439,36 @@ desc="Pichu (Japanese: ピチュー Pichuu) is an Electric-type Baby Pokémon in
 conditions="There will be only 59610 Pichus in existence."
 image="https://pokedex.live/img/Pichu.png"
 
+[[CURRENCIES]]
+code="Gastly"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Gastly"
+desc="Gastly (Japanese: ゴース Goosu) is a Ghost/Poison-type Pokémon introduced in Generation I. Gastly's appearance consists of a dark sphere (its 'head') surrounded by light purple gas. Gastly has large, white eyes and a large mouth with a small pair of fangs."
+conditions="There will be only 79619 Gastlys in existence."
+image="https://pokedex.live/img/Gastly.png"
+
+[[CURRENCIES]]
+code="Krabby"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Krabby"
+desc="Krabby (Japanese: クラブ Kurabu) is a Water-type Pokémon introduced in Generation I. Krabby is a River Crab Pokémon. It is red on top and mostly tan on the bottom. Its signature feature are the two long pincers it has."
+conditions="There will be only 1019619 Krabbys in existence."
+image="https://pokedex.live/img/Krabby.png"
+
+
+[[CURRENCIES]]
+code="Smoochum"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Smoochum"
+desc="Smoochum (Japanese: ムチュール Muchuuru) is an Ice/Psychic-type Baby Pokémon introduced in Generation II."
+conditions="There will be only 196191 Smoochums in existence."
+image="https://pokedex.live/img/Smoochum.png"
+
+
+
 
 
 
