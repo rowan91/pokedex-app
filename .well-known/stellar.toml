@@ -341,15 +341,6 @@ conditions="There will be only 12931 Wartortles in existence."
 image="https://pokedex.live/img/Wartortle.png"
 
 [[CURRENCIES]]
-code="Wartortle"
-issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
-display_decimals=2
-name="Wartortle"
-desc="Wartortle (Japanese: カメール Kameeru) is a Water-type Pokémon introduced in Generation I. It is the evolved form of Squirtle. Wartortle are small, bipedal, turtle-like Pokémon with a similar appearance to that of their pre-evolved form, Squirtle. Some differences are that Wartortle have developed sharper and larger claws and teeth."
-conditions="There will be only 12931 Wartortles in existence."
-image="https://pokedex.live/img/Wartortle.png"
-
-[[CURRENCIES]]
 code="Drowzee"
 issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
@@ -465,8 +456,106 @@ display_decimals=2
 name="Smoochum"
 desc="Smoochum (Japanese: ムチュール Muchuuru) is an Ice/Psychic-type Baby Pokémon introduced in Generation II."
 conditions="There will be only 196191 Smoochums in existence."
-image="https://pokedex.live/img/Smoochum.png"
+image="https://pokedex.live/img/Smoochum.png" 
 
+[[CURRENCIES]]
+code="Ivysaur"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Ivysaur"
+desc="Ivysaur (フシギソウ Fushigiso) is a Grass/Poison Pokémon introduced in Generation I. Ivysaur's appearance is very similar to that of its pre-evolved form, Bulbasaur."
+conditions="There will be only 978 Ivysaur in existence."
+image="https://pokedex.live/img/Ivysaur.png" 
+
+[[CURRENCIES]]
+code="Charizard"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Charizard"
+desc="Charizard (リザードン Rizaadon) is a Fire/Flying-type Pokémon introduced in Generation I. It can mega evolve into either Mega Charizard X using the Charizardite X or Mega Charizard Y using the Charizardite Y. It can Gigantamax into Gigantamax Charizard."
+conditions="There will be only 101 Charizards in existence."
+image="https://pokedex.live/img/Charizard.png" 
+
+[[CURRENCIES]]
+code="Blastoise"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Blastoise"
+desc="Blastoise (カメックス Kamekkusu) is a Water-type Pokémon introduced in Generation I. Blastoise is the evolved form of Wartortle, and the final evolution of Squirtle. It is also the version mascot for Pokémon Blue. It can Mega Evolve into Mega Blastoise and Gigantamax into Gigantamax Blastoise."
+conditions="There will be only 1293 Blastoises in existence."
+image="https://pokedex.live/img/Blastoise.png" 
+
+[[CURRENCIES]]
+code="Weepinbell"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Weepinbell"
+desc="Weepinbell (Japanese: ウツドン Utsudon) is a Grass/Poison-type Pokémon introduced in Generation I. Weepinbell is a plant Pokémon. It lacks legs, so it hovers in the air. The head of Weepinbell is yellow with three yellow-green spots on it. On the top of its head is a vine."
+conditions="There will be only 97912 Weepinbells in existence."
+image="https://pokedex.live/img/Weepinbell.png" 
+
+[[CURRENCIES]]
+code="Tentacool"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Tentacool"
+desc="Tentacool (Japanese: メノクラゲ Menokurage ) is a Water/Poison-type Pokémon introduced in Generation I. Tentacool is an aquatic Pokémon based on the box jellyfish. Tentacool have two long tentacles that extend from the base of its large, blue head. There are three red gems on this Pokémon's head: two on the sides of its head and one on its forehead."
+conditions="There will be only 61559 Tentacools in existence."
+image="https://pokedex.live/img/Tentacool.png" 
+
+[[CURRENCIES]]
+code="Haunter"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Haunter"
+desc="Haunter (Japanese: ゴースト Goosuto) is a Ghost/Poison-type Pokémon introduced in Generation I. Haunter is a purple, spiky, floating figure with triangular eyes, tiny pupils, fangs and disembodied, three-fingered, clawed hands."
+conditions="There will be only 7961 Haunters in existence."
+image="https://pokedex.live/img/Haunter.png" 
+
+[[CURRENCIES]]
+code="Horsea"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Horsea"
+desc="Horsea (Japanese: タッツー Tattsuu) is a Water-type Pokémon introduced in Generation I. Horsea is a Water-type Pokémon that resembles a seahorse. It is a small, light blue seahorse with tiny scales. Its belly and fin are cream colored. Its tail is always curled up tightly, and it has a single fin on its back that is used for locomotion in the water."
+conditions="There will be only 7961191 Horseas in existence."
+image="https://pokedex.live/img/Horsea.png" 
+
+[[CURRENCIES]]
+code="Staryu"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Staryu"
+desc="Staryu (ヒトデマン Hitodeman) is a Water-type Pokémon introduced in Generation I. Staryu is a Star Shape Pokémon. It is star shaped, as its name suggests. Its 'arms' are brown."
+conditions="There will be only 1490961 Staryus in existence."
+image="https://pokedex.live/img/Staryu.png" 
+
+[[CURRENCIES]]
+code="Snorlax"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Snorlax"
+desc="Snorlax (Japanese: カビゴン Kabigon) is a Normal-type Pokémon introduced in Generation I. Snorlax is a very large and fat, bear-like Pokémon that has grayish-blue fur and an apricot-color underbelly. Snorlax is known for its relaxed and somewhat-sluggish nature. It will sleep all day until it is hungry, when it will awake and forage for the 880 pounds (399 kilograms) of food it needs, afterwards falling back to sleep again."
+conditions="There will be only 38948 Snorlaxs in existence."
+image="https://pokedex.live/img/Snorlax.png" 
+
+[[CURRENCIES]]
+code="Zapdos"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Zapdos"
+desc="Zapdos (Japanese: サンダー Sandaa) is an Electric/Flying-type Legendary Pokémon introduced in Generation I. It is part of the Kanto Legendary Birds, along with Articuno and Moltres."
+conditions="There will be only 3 Zapdos in existence."
+image="https://pokedex.live/img/Zapdos.png" 
+
+[[CURRENCIES]]
+code="Dratini"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Dratini"
+desc="Dratini (Japanese: ミニリュウ Miniryuu) is a Dragon-type Pokémon introduced in Generation I. It has a white, circular, gem-like object on its forehead, and its eyes are light purple. It has two developing wings at the sides of its head, which grow to be enormous as it evolves. It has a white belly, and is light blue the rest of the way. Dratini looks like some sort of snake or sea monster. Dratini are born large, and as they shed their skin, they grow larger. They have a massive amount of energy rapidly increasing inside of their bodies, hence, they have great strength, which grows exponentially as they evolve."
+conditions="There will be only 919 Dratinis in existence."
+image="https://pokedex.live/img/Dratini.png" 
 
 
 
