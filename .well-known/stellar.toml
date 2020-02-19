@@ -20,7 +20,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Caterpie"
 desc="Caterpie (Japanese: キャタピー Kyatapii) is a Bug-type Pokémon introduced in Generation I. Caterpie is a worm-like Pokémon that is mainly green in color with a tan underside. Just below its head are four, tiny legs that are used only for movement. On top of its head is a red, 'y-shaped' antenna, which can be used to produce an odor used in self-defense, in case something tries to hurt it."
-conditions="There will be only 12762100 Caterpies in existence."
+conditions="There will be only 12762101 Caterpies in existence."
 image="https://i.imgur.com/BvuSEpD.png"
 
 [[CURRENCIES]]
@@ -201,7 +201,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Bulbasaur"
 desc="Bulbasaur (フシギダネ Fushigidane) is a Grass/Poison-type Pokémon introduced in Generation I. It evolves into Ivysaur starting at level 16. It is one of the three Starter Pokémon that can be chosen in the Kanto region. Bulbasaur often rests in bright places so its bulb can absorb sunlight. It can be seen napping in bright sunlight. While it sleeps, the seed on its back catches the rays and uses the energy to grow."
-conditions="There will be only 9,789 Bulbasaurs in existence."
+conditions="There will be only 36769 Bulbasaurs in existence."
 image="https://i.imgur.com/goklpGE.png"
 
 [[CURRENCIES]]
@@ -464,7 +464,7 @@ issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
 display_decimals=2
 name="Ivysaur"
 desc="Ivysaur (フシギソウ Fushigiso) is a Grass/Poison Pokémon introduced in Generation I. Ivysaur's appearance is very similar to that of its pre-evolved form, Bulbasaur."
-conditions="There will be only 978 Ivysaur in existence."
+conditions="There will be only 3676 Ivysaurs in existence."
 image="https://pokedex.live/img/Ivysaur.png" 
 
 [[CURRENCIES]]
@@ -555,7 +555,25 @@ display_decimals=2
 name="Dratini"
 desc="Dratini (Japanese: ミニリュウ Miniryuu) is a Dragon-type Pokémon introduced in Generation I. It has a white, circular, gem-like object on its forehead, and its eyes are light purple. It has two developing wings at the sides of its head, which grow to be enormous as it evolves. It has a white belly, and is light blue the rest of the way. Dratini looks like some sort of snake or sea monster. Dratini are born large, and as they shed their skin, they grow larger. They have a massive amount of energy rapidly increasing inside of their bodies, hence, they have great strength, which grows exponentially as they evolve."
 conditions="There will be only 919 Dratinis in existence."
-image="https://pokedex.live/img/Dratini.png" 
+image="https://pokedex.live/img/Dratini.png"  
+
+[[CURRENCIES]]
+code="Persian"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Persian"
+desc="Persian (Japanese: ペルシアン Persian) is a Normal-type Pokémon introduced in Generation I, and a Dark-type introduced in Generation VII.  Its fur is beige in color, and it has a curly tail. There is also a small, red gem on its forehead, which is said to give the Pokémon power. The Persian is named after the Persian breed of cat, although it resembles a cougar, with a yellowish white fur color. It may possibly be an albino cougar."
+conditions="There will be only 362 Persians in existence."
+image="https://pokedex.live/img/Persian.png" 
+
+[[CURRENCIES]]
+code="Venusaur"
+issuer="GDKDKVEYV4TSELBCMNFFR7FAX7CYY6LYOIOR5P2LMB2T5S4N2V5A5IW6"
+display_decimals=2
+name="Venusaur"
+desc="Venusaur (フシギバナ Fushigibana) is a Grass/Poison-type Pokémon. Venusaur is a large, dinosaur-like Pokémon that is somewhat similar in appearance to its pre-evolved forms, Ivysaur and Bulbasaur. Venusaur absorbs sunlight to gain energy and to feed its flower, located on its back."
+conditions="There will be only 367 Venusaurs in existence."
+image="https://pokedex.live/img/Venusaur.png" 
 
 
 
