@@ -575,6 +575,14 @@ desc="Venusaur (フシギバナ Fushigibana) is a Grass/Poison-type Pokémon. Ve
 conditions="There will be only 367 Venusaurs in existence."
 image="https://pokedex.live/img/Venusaur.png" 
 
+[[CURRENCIES]]
+code="Gengar"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Gengar"
+desc="Gengar is a shadow-like, round-bodied Pokémon with two large, pointed ears and short spikes lining its back. Gengar has two red eyes and a toothy, sinister smile. It has claws on its hands. Gengar stands on its two short legs, but it can Levitate as well. This Pokémon hides in the shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 °F."
+conditions="There will be only 796 Gengars in existence."
+image="https://pokedex.live/img/Gengar.png"
 
 
 
