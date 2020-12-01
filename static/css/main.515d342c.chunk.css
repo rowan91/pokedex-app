@@ -1,2 +1,2 @@
 .card{border-radius:10px;border:1px solid #000}.card img{height:100px;padding:10px}.card-list{background-color:#fff;display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-column-gap:30px;grid-row-gap:30px;text-align:center}@media only screen and (max-width:800px){.card-list{grid-template-columns:1fr 1fr 1fr}}@media only screen and (max-width:600px){.card-list{grid-template-columns:1fr 1fr}}
-/*# sourceMappingURL=main.9ebdf66f.chunk.css.map */
+/*# sourceMappingURL=main.515d342c.chunk.css.map */
