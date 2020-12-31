@@ -584,6 +584,51 @@ desc="Gengar is a shadow-like, round-bodied Pokémon with two large, pointed ear
 conditions="There will be only 796 Gengars in existence."
 image="https://pokedex.live/img/Gengar.png"
 
+[[CURRENCIES]]
+code="Totodile"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Totodile"
+desc="Totodile (ワニノコ Waninoko) is the Water-type Starter Pokémon of the Johto region. Totodile is a small Pokémon that appears as a bipedal crocodile. While most of a Totodile's body is blue, they have a yellow, V-shaped marking across their chest, red eyes and spikes that go down its back to its tail. These Pokémon are well known for their large mouths, filled with razor-sharp teeth."
+conditions="There will be only 63637 Totodiles in existence."
+image="https://pokedex.live/img/Totodile.png"
+
+[[CURRENCIES]]
+code="Jynx"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Jynx"
+desc="Jynx (ルージュラ Ruujura) is an Ice/Psychic-type Pokémon introduced in Generation I. Jynx originally had black skin, which was dropped due to the resemblance to 'blackface' and the response of a small group of activists to the resemblance."
+conditions="There will be only 19619 Jynxs in existence."
+image="https://pokedex.live/img/Jynx.png"
+
+[[CURRENCIES]]
+code="Dragonair"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Dragonair"
+desc="Dragonair (Japanese: ハクリュ Hakuryuu) is a Dragon-type Pokémon introduced in Generation I. Dragonair's appearance are like sea serpents with long, sleek bodies. The upper part of their body is light blue while its underside is white. They have a small, white horn on the forehead and two wing-shaped protuberances on the sides of the head which are often said to be ears, but are in fact wings, as evidenced in the short film preceding Pokémon: The Movie 2000. They have a blue orb placed at the neck and another two near the tip of the tail. Along with Dratini, its mouth is rarely seen. It is unknown if it even has a mouth."
+conditions="There will be only 91 Dragonairs in existence."
+image="https://pokedex.live/img/Dragonair.png"
+
+[[CURRENCIES]]
+code="Grimer"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Grimer"
+desc="Grimer (ベトベター Betobetaa) is a Poison-type Pokémon introduced in Generation I. It has a Poison/Dark-type Alolan Form in Generation VII. The Grimers that are from the Kanto region are colored purple, but the Grimers that are from the Alola region are colored with dark green on its body, yellow for the jawline and blue for the tongue, also it has two crystal that are sticking on the roof of its mouth acts like teeth."
+conditions="There will be only 86868 Grimers in existence."
+image="https://pokedex.live/img/Grimer.png"
+
+[[CURRENCIES]]
+code="Scyther"
+issuer="GAWJ3ZRK7TCGQKBLJCVER5THNQ3RTQK7LG3UVCVFHVH3JH7UI7QE7RNB"
+display_decimals=2
+name="Scyther"
+desc="Scyther (Japanese: ストライク Sutoraiku) is a Bug/Flying-type Pokémon introduced in Generation I. Scyther is a Mantis Pokémon. It is green with two wings that enable flight. It has two razor-sharp scythes for arms."
+conditions="There will be only 17617 Scythers in existence."
+image="https://pokedex.live/img/Scyther.png"
+
 
 
 
